@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\ProjetoPassagens\obj\Debug\netcoreapp3.1\ProjetoPassagens.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\ProjetoPassagens\obj\Debug\netcoreapp3.1\ProjetoPassagens.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\ProjetoPassagens\obj\Debug\netcoreapp3.1\ProjetoPassagens.AssemblyInfo.cs
+C:\Users\dev\Desktop\ProjetoPassagens\obj\Debug\netcoreapp3.1\ProjetoPassagens.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\ProjetoPassagens\bin\Debug\netcoreapp3.1\ProjetoPassagens.exe
+C:\Users\dev\Desktop\ProjetoPassagens\bin\Debug\netcoreapp3.1\ProjetoPassagens.deps.json
+C:\Users\dev\Desktop\ProjetoPassagens\bin\Debug\netcoreapp3.1\ProjetoPassagens.runtimeconfig.json
+C:\Users\dev\Desktop\ProjetoPassagens\bin\Debug\netcoreapp3.1\ProjetoPassagens.runtimeconfig.dev.json
+C:\Users\dev\Desktop\ProjetoPassagens\bin\Debug\netcoreapp3.1\ProjetoPassagens.dll
+C:\Users\dev\Desktop\ProjetoPassagens\bin\Debug\netcoreapp3.1\ProjetoPassagens.pdb
+C:\Users\dev\Desktop\ProjetoPassagens\obj\Debug\netcoreapp3.1\ProjetoPassagens.dll
+C:\Users\dev\Desktop\ProjetoPassagens\obj\Debug\netcoreapp3.1\ProjetoPassagens.pdb
+C:\Users\dev\Desktop\ProjetoPassagens\obj\Debug\netcoreapp3.1\ProjetoPassagens.genruntimeconfig.cache
